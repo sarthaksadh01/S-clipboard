@@ -6,8 +6,8 @@ First, you need to install the Tesseract project. Instructions for installing Te
 
 Download the installer for
 - [Macos](https://drive.google.com/file/d/1NXDrApSWd3teQVDoT3RL_aWhiyrB5i43/view?usp=sharing "Macos")
-- [Windows](https://drive.google.com/file/d/1kXGmCWNUB2cf8u89TEdUKuzqlOh9Z3Mx/view?usp=sharing "Windows")
-- [Linux](http:// "Linux")
+- [Windows]( "Windows")
+- [Linux](https://drive.google.com/file/d/1kXGmCWNUB2cf8u89TEdUKuzqlOh9Z3Mx/view?usp=sharing "Linux")
 
 Or setup the project locally
  ```shell
