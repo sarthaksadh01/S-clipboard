@@ -5,7 +5,7 @@ Copy text from images or website where copy paste is blocked.
 First, you need to install the Tesseract project. Instructions for installing Tesseract for all platforms can be found on the [the project site](https://github.com/tesseract-ocr/tesseract/wiki "the project site")
 
 Download the installer for
-- [Macos](http:// "Macos")
+- [Macos](https://drive.google.com/file/d/1NXDrApSWd3teQVDoT3RL_aWhiyrB5i43/view?usp=sharing "Macos")
 - [Windows](http:// "Windows")
 - [Linux](http:// "Linux")
 
