@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <link rel="stylesheet" href="./css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <title>S-Clipboard</title>
+  </head>
+  <body>
+    <div class="container mt-5">
+      <section class="jumbotron bgColor text-center">
+        <div class=" jumboMargin" >
+          <h1 class="text-orange font-weight-bold">S-Clipboard</h1>
+          <p class="lead text-orange">Copy text from images</p>
+         
+        </div>
+      </section>
+      <table class="table mt-5">
+        <thead class=" text-orange">
+          <tr>
+            <th scope="col">Operating System</th>
+            <th scope="col">User Name</th>
+            <th scope="col">Screenshot Path</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th id ="os" scope="row"></th>
+            <td id = "uName" class="font-weight-bold"></td>
+            <td id ="path" class="font-weight-bold"></td>
+          </tr>
+   
+        </tbody>
+      </table>
+
+      <p>Note: Tesseract should be installed in the system to extract text</p>
+      <p><a c;a href = "https://github.com/tesseract-ocr/tesseract/wiki">Installation Guide</a></p>
+
+
+      
+    </div>
+
+    <!-- You can also require other files to run in this process -->
+    <script src="./renderer.js"></script>
+  </body>
+</html>

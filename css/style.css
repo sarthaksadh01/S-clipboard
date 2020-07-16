@@ -1,0 +1,40 @@
+.text-orange{
+    color: orange;
+    }
+    .text-blue{
+        color:#060c22;
+
+    }
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+      }
+    }
+    .bgColor{
+        background-color:#060c22;
+
+    }
+    .jumbotron {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    margin-bottom: 0;
+    
+    }
+    @media (min-width: 768px) {
+    .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+    }
+    }
+    
+    .jumbotron p:last-child {
+    margin-bottom: 0;
+    }
+    
+    .jumbotron h1 {
+    font-weight: 300;
+    }
+    
+    .jumbotron .container {
+    max-width: 40rem;
+    }

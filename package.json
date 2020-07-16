@@ -1,0 +1,17 @@
+{
+  "name": "s-clipboard",
+  "version": "1.0.0",
+  "description": "Copy Text from Images",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^9.1.0"
+  },
+  "dependencies": {
+    "clipboardy": "^2.3.0",
+    "node-tesseract-ocr": "^2.0.0",
+    "node-watch": "^0.6.4"
+  }
+}
